@@ -1,9 +1,6 @@
 # Reproducing "Isolation Forest" (Liu, Ting and Zhou, ICDM 2008)
 
-Data Wrangling, assignment 2, task 2: a from-scratch NumPy implementation of
-iForest, checked against scikit-learn, and a rerun of the paper's main
-experiment (Section 5.1, Table 3) on all twelve data sets, with LOF, Random
-Forests and an ORCA-style k-NN score as competitors.
+Assignment made during the course Data Wrangling at Utrecht University graded 9.0/10
 
 ## Result
 
